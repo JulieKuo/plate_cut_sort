@@ -4,8 +4,8 @@
         "width": 3000
     },
     "database":{
-        "user": "aiuser",
-        "password": "123EWQasdCXZ",
+        "user": "",
+        "password": "",
         "host": "192.168.1.205",
         "port": 3306,
         "database": "intermediate",
