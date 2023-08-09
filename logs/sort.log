@@ -1,0 +1,9 @@
+2023-08-01 14:30:55 INFO ----------------------------------------------------------------------------------------------------
+2023-08-01 14:30:55 INFO Read config from c:\Users\tzuli\Documents\python\ChuanMai\prog\config.json
+2023-08-01 14:30:55 INFO Get data from database.
+2023-08-01 14:30:56 INFO Initialize sort.
+2023-08-01 14:30:56 INFO Calculate area.
+2023-08-01 14:30:56 INFO Calculate waste and plate_id & Sort.
+2023-08-01 15:03:15 INFO Save waste to c:\Users\tzuli\Documents\python\ChuanMai\data\sort\waste.json
+2023-08-01 15:03:17 INFO Save data to c:\Users\tzuli\Documents\python\ChuanMai\data\sort\data.csv
+2023-08-01 15:03:17 INFO Save output to c:\Users\tzuli\Documents\python\ChuanMai\data\sort\output.json.

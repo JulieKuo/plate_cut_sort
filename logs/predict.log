@@ -1,0 +1,14 @@
+2023-08-01 14:05:39 INFO --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-08-01 14:05:39 INFO input = {'model_id': '20230727150000000', 'start_time': '2021-01-01', 'end_time': '2025-12-30'}
+2023-08-01 14:05:39 INFO Read config from C:\Users\tzuli\Documents\python\ChuanMai\prog\config.json
+2023-08-01 14:05:39 INFO Get data from database.
+2023-08-01 14:05:39 INFO Load model from C:\Users\tzuli\Documents\python\ChuanMai\data\train\20230727150000000\model\*.pkl
+2023-08-01 14:05:41 INFO Preprocessing.
+2023-08-01 14:05:41 INFO - Calculate area.
+2023-08-01 14:05:41 INFO - Delete Unsortable items.
+2023-08-01 14:05:41 INFO - Initialize sort.
+2023-08-01 14:05:41 INFO - Calculate the total number of data of this type.
+2023-08-01 14:05:42 INFO Predict and sort.
+2023-08-01 14:23:14 INFO Save data to C:\Users\tzuli\Documents\python\ChuanMai\data\predict\data.csv
+2023-08-01 14:23:14 INFO Save waste to C:\Users\tzuli\Documents\python\ChuanMai\data\predict\waste.json
+2023-08-01 14:23:15 INFO Save output to C:\Users\tzuli\Documents\python\ChuanMai\data\predict\output.json

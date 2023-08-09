@@ -1,0 +1,18 @@
+{
+    "limit": {
+        "length": 3000,
+        "width": 3000
+    },
+    "database":{
+        "user": "aiuser",
+        "password": "123EWQasdCXZ",
+        "host": "192.168.1.205",
+        "port": 3306,
+        "database": "intermediate",
+        "table": {
+            "train": "a_chuanmai_sort_schdl_order_item",
+            "predict": "a_chuanmai_order_item",
+            "weight": "a_chuanmai_weight_setting"
+        }
+    }
+}
